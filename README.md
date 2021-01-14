@@ -1,5 +1,4 @@
 # hello_world
 practicando  github
 
-editando una copia de la rama main
-para crear una rama develop
+esta es la rama main, los cambios los hago apartir de otras ramas
